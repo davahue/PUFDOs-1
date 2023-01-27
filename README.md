@@ -1,5 +1,8 @@
 PUFDOs
 
-This repository contains the source data on which the following paper was based:
+This repository contains the source data that led to the paper:
 
-...
+Bayón, A., Valero, D. & Franca, M. 2023. Identification of potential urban-flood-debris objects (PUFDOs) and their role in past major floods.
+
+This study examines floods of the past 20 years in order to identify the most common debris mobilized by floods and their characteristics. The count and classification were conducted by reviewing available post-flood graphic material, such as press or social media, after the most widely covered events worldwide each year from 2000 to 2021. In the files "count_floods_2000", "count_floods_2001"..., we counted the prevalence of urban anthropogenic debris on a yes/no basis in 8-10 pictures per event
+
